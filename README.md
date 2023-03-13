@@ -1,5 +1,5 @@
 ## Regression
-In this project the regression model will be implemented to predict target value based on internship_train.csv file.
+In this project the regression model will be implemented to predict target value for test data in internship_hidden_test.csv file based on internship_train.csv file.
 
 ## Visualizing the data
 The table below displays the training data from the internship_train.csv file.
