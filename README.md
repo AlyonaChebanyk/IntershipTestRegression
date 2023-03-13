@@ -4,7 +4,7 @@ In this project the regression model will be implemented to predict target value
 ## Visualizing the data
 The table below displays the training data from the internship_train.csv file.
 
-![img.png](img.png)
+![img.png](_media/img.png)
 
 ## Regression models
 To select a model for regression, different models were compared by the RMSE metric. 
@@ -30,5 +30,5 @@ The Random Forest Regressor model was used to obtain predictions. For modeling r
 ## Predictions
 The table below displays the predictions in result.csv file.
 
-![img_1.png](img_1.png)
+![img_1.png](_media/img_1.png)
 
